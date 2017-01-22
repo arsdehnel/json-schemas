@@ -1,0 +1,8 @@
+{
+    "properties": {
+        "bundleId": {
+            "type": "number",
+            "minimum": 1
+        }
+    }
+};
